@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+<contact id='1' genre='Computer' flag='new'><username>amit</username><password>amit</password><email>amit@yahoo.com</email><genre>Computer</genre><phone>9812345678</phone><company>testin company</company><address>GNP</address><name>amit</name><unit>101</unit><city>Jalandhar</city><postalcode>144001</postalcode></contact>
+  <contact id='1' genre='Computer' flag='new'>
+    <username>anil</username>
+    <password>anil</password>
+    <email>anil@yahoo.com</email>
+    <genre>Computer</genre>
+    <phone>9812345678</phone>
+    <company>testin company</company>
+    <address>GNP</address>
+    <name>amit</name>
+    <unit>101</unit>
+    <city>Jalandhar</city>
+    <postalcode>144001</postalcode>
+  </contact>
+<contact id='1' genre='Computer' flag='new'><username>honey</username><password>jaideep</password><email>jaideepsran@yahoo.com</email><genre>Computer</genre><phone>0767856456</phone><company>abc company</company><address>ohara street</address><name>honey</name><unit>6</unit><city>blackburn</city><postalcode>3130</postalcode></contact><contact id='1' genre='Computer' flag='new'><username>honey</username><password>jaideep</password><email>honeysingh@gmail.com</email><genre>Computer</genre><phone>0876567876</phone><company>abc company</company><address>ohara street</address><name>honey</name><unit>1 </unit><city>jalandhar</city><postalcode>3130</postalcode></contact><contact id='1' genre='Computer' flag='new'><username>a</username><password>a</password><email>a</email><genre>Computer</genre><phone>a</phone><company>a</company><address>a</address><name>a</name><unit>a</unit><city>a</city><postalcode>a</postalcode></contact></catalog>

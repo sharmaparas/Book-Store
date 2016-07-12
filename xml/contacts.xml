@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+  <contact id="1" genre="Computer" flag="new">
+    <name>Ankush</name>
+    <email>ankush.passion@gmail.com</email>
+    <genre>Computer</genre>
+    <phone>9823232323</phone>
+    <company>ABC Corp</company>
+    <msg>This is a testing message</msg>
+  </contact>
+
+
+
+<contact id='1' genre='Computer' flag='new'><name>Anil Kumar Saxena</name><email>ankush.passion@gmail.com</email><genre>Computer</genre><phone>2342</phone><company>asd</company><msg>asd</msg></contact><contact id='1' genre='Computer' flag='new'><name></name><email></email><genre>Computer</genre><phone></phone><company></company><msg></msg></contact><contact id='1' genre='Computer' flag='new'><name></name><email></email><genre>Computer</genre><phone></phone><company></company><msg></msg></contact><contact id='1' genre='Computer' flag='new'><name></name><email></email><genre>Computer</genre><phone></phone><company></company><msg></msg></contact><contact id='1' genre='Computer' flag='new'><name></name><email></email><genre>Computer</genre><phone></phone><company></company><msg></msg></contact><contact id='1' genre='Computer' flag='new'><name></name><email></email><genre>Computer</genre><phone></phone><company></company><msg></msg></contact><contact id='1' genre='Computer' flag='new'><name></name><email></email><genre>Computer</genre><phone></phone><company></company><msg></msg></contact><contact id='1' genre='Computer' flag='new'><name></name><email></email><genre>Computer</genre><phone></phone><company></company><msg></msg></contact><contact id='1' genre='Computer' flag='new'><name></name><email></email><genre>Computer</genre><phone></phone><company></company><msg></msg></contact></catalog>

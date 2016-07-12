@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Edited by XMLSpy® -->
+<category>
+<pet>
+<name>Dog Carbon</name>
+<url>Carbon-detail.html</url>
+</pet>
+<pet>
+<name>Dog Blanket</name>
+<url>Blanket-detail.html</url>
+</pet>
+<pet>
+<name>Cat Juicy</name>
+<url>Juicy-detail.html</url>
+</pet>
+<pet>
+<name>Cat Candy</name>
+<url>Candy-detail.html</url>
+</pet>
+<pet>
+<name>Dog Autumn</name>
+<url>Autumn-detail.html</url>
+</pet>
+<pet>
+<name>Dog Darky</name>
+<url>Darky-detail.html</url>
+</pet>
+<pet>
+<name>Dog Teabag</name>
+<url>Teabag-detail.html</url>
+</pet>
+<pet>
+<name>Dog Sissi</name>
+<url>Sissi-detail.html</url>
+</pet>
+<pet>
+<name>Dog Happy</name>
+<url>Happy-detail.html</url>
+</pet>
+<pet>
+<name>Dog Pearl</name>
+<url>Pearl-detail.html</url>
+</pet>
+<pet>
+<name>Dog Flash</name>
+<url>flash-detail.html</url>
+</pet>
+<pet>
+<name>Native Birds General</name>
+<url>General-detail.html</url>
+</pet>
+</category>
